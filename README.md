@@ -98,4 +98,40 @@ This file will train the LSTM network.
 This file will be used for prediction of any input text.
 
 
+### 6. main.py
+![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/211185530-0bb6db8e-582a-4d63-a892-d2c2688fb345.png" width=60%/>
+</p>
+
+## TESTING IN LOCAL/API
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+
+To do the test testing we need to run the **main.py** and after that web server will start at **http://0.0.0.0:5000/**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/211185658-35f0911d-405a-4ad1-9c00-8391e246a3a3.png" width=60%/>
+</p>
+
+Enter the text to be classified and click on Predict button.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/211185690-5223495a-eae6-44dd-9cdf-9458f08df6a3.png" width=60%/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/211185727-1492c16d-40a8-4d47-8934-01ce8e06f0c9.png" width=60%/>
+</p>
+
+## CONCLUSION
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+
+Hence we have successfully the build the text classifier using Word2vec and LSTM.
+## COMPARISION
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+
+Here we have kept the scope a bit small but you can get better results using pretrained model **BERT** or **GPT2** which are gaining a lot of popularity recently and better word embedding tecniques.
