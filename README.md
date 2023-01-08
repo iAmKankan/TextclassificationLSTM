@@ -130,7 +130,7 @@ Enter the text to be classified and click on Predict button.
 ## CONCLUSION
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 
-Hence we have successfully the build the text classifier using Word2vec and LSTM.
+Hence we have successfully build the text classifier using **Word2vec** and **LSTM**.
 ## COMPARISION
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 
