@@ -1,0 +1,6 @@
+model_checkpoint_path: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-10001"
+all_model_checkpoint_paths: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-2001"
+all_model_checkpoint_paths: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-4001"
+all_model_checkpoint_paths: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-6001"
+all_model_checkpoint_paths: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-8001"
+all_model_checkpoint_paths: "RNN_hu128_hl1_bs64_dp0.5_lr10.0_we128_ww5-10001"
