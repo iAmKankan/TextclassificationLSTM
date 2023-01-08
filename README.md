@@ -135,3 +135,8 @@ Hence we have successfully build the text classifier using **Word2vec** and **LS
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 
 Here we have kept the scope a bit small but you can get better results using pretrained model **BERT** or **GPT2** which are gaining a lot of popularity recently and better word embedding tecniques.
+
+## Download Link & Reference
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+* [Drive]()
+* **Time**- _00-March-22,00:00_
