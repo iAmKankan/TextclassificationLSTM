@@ -60,14 +60,15 @@ Installation of this project is pretty easy. Please do follow the following step
   <img src="https://user-images.githubusercontent.com/12748752/211185221-80ca074c-9b22-4b60-98c9-569c3329c780.png" width=60%/>
 </p>
 
+This is the complete folder stucture of the project.
 
 ### 2. preprocess.py
 ![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/211185286-937f9163-d0f1-4234-9339-2ad8e9af9e1d.png" width=60%/>
 </p>
-![image](https://user-images.githubusercontent.com/12748752/211185286-937f9163-d0f1-4234-9339-2ad8e9af9e1d.png)
+
+This file is used for data processing. It will create _train_preprocessed.pickle_ , _validation_preprocessed.pickle_ and _test_preprocessed.pickle_ files under **data folder**.
 
 ### 3. word_embedder_gensim.py
 ![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
@@ -76,6 +77,8 @@ Installation of this project is pretty easy. Please do follow the following step
   <img src="https://user-images.githubusercontent.com/12748752/211185342-115c702f-b3e6-4b7b-9273-a40c564e525a.png" width=60%/>
 </p>
 
+This file will training  the **Word2Vec** embeddings.
+
 ### 4. rnn_w2v.py
 ![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
@@ -83,12 +86,16 @@ Installation of this project is pretty easy. Please do follow the following step
   <img src="https://user-images.githubusercontent.com/12748752/211185370-deaac542-5915-4a79-bd5b-f094517d3928.png" width=60%/>
 </p>
 
+This file will train the LSTM network.
+
 ### 5. TextCategorizer.py
 ![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12748752/211185390-f48f8e6a-3892-47ed-9be7-ac2c1aec1041.png" width=60%/>
 </p>
+
+This file will be used for prediction of any input text.
 
 
 
